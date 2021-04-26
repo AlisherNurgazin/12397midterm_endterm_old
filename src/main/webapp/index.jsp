@@ -4,13 +4,14 @@
     <head>
         <meta charset="UTF-8">
         <title>Main page</title>
+
         <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.0.0-beta1/dist/css/bootstrap.min.css" rel="stylesheet" integrity="sha384-giJF6kkoqNQ00vy+HMDP7azOuL0xtbfIcaT9wjKHr8RbDVddVHyTfAAsrekwKmP1" crossorigin="anonymous">
         <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.0.0-beta1/dist/js/bootstrap.bundle.min.js" integrity="sha384-ygbV9kiqUc6oa4msXn9868pTtWMgiQaeYH7/t7LECLbyPA2x65Kgf80OJFdroafW" crossorigin="anonymous"></script>
     </head>
 </head>
 <body>
 <%@include file="header.jsp"%>
-    <div style="width: 70%; margin: 50px auto">
+    <div style="width: 70%; margin: 50px auto; font-family: Georgia ">
         <center><img src="https://m.ticketon.kz/images/logo.png" alt="тикетон"style="vertical-align:middle;margin:20px 0px"></center>
         <p>
             Ticketon.kz is the largest online ticket sales service in Kazakhstan for cultural and sports events, including: movies, theater and circus performances, concerts of Kazakh and foreign pop stars, trainings and seminars, excursions to museums and art galleries, children's performances, football, hockey and basketball matches of national teams, as well as international competitions. Ticketon.kz – service platform. We provide a comprehensive service to event organizers, providing Software for both cash sales and online ticket sales in synchronized mode, advertising support, as well as organizing a checkpoint system during events.
