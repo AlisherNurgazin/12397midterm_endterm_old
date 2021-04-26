@@ -19,6 +19,7 @@
 
             The company is actively working on the formation of e-commerce infrastructure in the field of culture and sports in Kazakhstan. The goal of Ticketon.kz aims to create a single ticket space and automate the country's theater, concert, and sports venues. Today, the company occupies more than 90% of the e-ticket market for concert and sports events in Kazakhstan.
         </p>
+        <center><img src="https://ticketon.kz/files/images/Online%20ClassRegistration%20(8).png" alt="тикетон"></center>
     </div>
 </body>
 </html>
