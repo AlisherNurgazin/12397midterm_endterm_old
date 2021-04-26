@@ -10,8 +10,8 @@
 </head>
 <body>
 <%@include file="header.jsp"%>
-    <div style="width: 80%; margin: 50px auto">
-        <h1 class="text-center">Welcome to Ticketon</h1>
+    <div style="width: 70%; margin: 50px auto">
+        <center><img src="https://m.ticketon.kz/images/logo.png" alt="тикетон"style="vertical-align:middle;margin:20px 0px"></center>
         <p>
             Ticketon.kz is the largest online ticket sales service in Kazakhstan for cultural and sports events, including: movies, theater and circus performances, concerts of Kazakh and foreign pop stars, trainings and seminars, excursions to museums and art galleries, children's performances, football, hockey and basketball matches of national teams, as well as international competitions. Ticketon.kz – service platform. We provide a comprehensive service to event organizers, providing Software for both cash sales and online ticket sales in synchronized mode, advertising support, as well as organizing a checkpoint system during events.
 
@@ -19,7 +19,7 @@
 
             The company is actively working on the formation of e-commerce infrastructure in the field of culture and sports in Kazakhstan. The goal of Ticketon.kz aims to create a single ticket space and automate the country's theater, concert, and sports venues. Today, the company occupies more than 90% of the e-ticket market for concert and sports events in Kazakhstan.
         </p>
-        <center><img src="https://ticketon.kz/files/images/Online%20ClassRegistration%20(8).png" alt="тикетон"></center>
+        <center><img src="https://ticketon.kz/files/images/Online%20ClassRegistration%20(8).png" alt="тикетон" style="vertical-align:middle;margin:10px 0px"></center>
     </div>
 </body>
 </html>

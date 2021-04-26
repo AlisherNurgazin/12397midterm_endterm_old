@@ -6,7 +6,7 @@
 </head>
 <body>
     <%@include file="header.jsp"%>
-    <div style="margin: auto; width: 80%;">
+    <div style="margin: auto; width: 70%;">
 
         <h2 class="text-center">Ticketon</h2>
         <p>
